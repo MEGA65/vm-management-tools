@@ -1,0 +1,3 @@
+cd ${HOME}/vm-management-tools
+git pull
+bin/post-fetch
